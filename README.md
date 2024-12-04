@@ -9,4 +9,4 @@ Make the script executable:
 Run the script with your input BAM file:
 `./add_bam_chr.sh example.bam`
 
-The output file will be named example_addchr.bam (appending _addchr to the original filename) and indexed automatically.
+The output file will be named `example_addchr.bam` (appending _addchr to the original filename) and indexed automatically.
